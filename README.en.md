@@ -31,8 +31,6 @@ Or you can download it from the Code button on the green background
 
 Go to the directory where you cloned and click on the
 
-Run the command `java -jar privateDairy.jar` or
-
-or run.bat in the same directory to start the application.
+Run the command `java -jar privateDairy.jar` or run.bat in the same directory to start the application.
 
 Alternatively, you can also start the application by executing `privateDairy.exe`.
