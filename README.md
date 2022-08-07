@@ -33,8 +33,6 @@ Go to the directory where you cloned and click on the
 
 Run the command `java -jar privateDairy.jar` or run.bat in the same directory to start the application.
 
-Alternatively, you can also start the application by executing `privateDairy.exe`.
-
 (EN Version)[https://github.com/distriful5061/privateDairy/blob/main/README.en.md]
 
 (JA Version)[https://github.com/distriful5061/privateDairy/blob/main/README.ja.md]
